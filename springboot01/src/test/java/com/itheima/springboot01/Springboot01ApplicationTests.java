@@ -1,13 +1,9 @@
 package com.itheima.springboot01;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
 class Springboot01ApplicationTests {
+    public static void main(String[] args) {
+        System.out.println("aaa");
 
-    @Test
-    void contextLoads() {
     }
 
 }
